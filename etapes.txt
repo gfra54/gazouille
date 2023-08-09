@@ -1,0 +1,8 @@
+installer docker et prototyper
+installer tous les packages php necessaires (curl, mbstring, mysql, dom)
+changer la conf pour 127.0.0.1 pour la bdd
+connexion mysql
+php artisan migrate pour creer les tables
+
+
+installer breeze
